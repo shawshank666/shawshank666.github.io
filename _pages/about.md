@@ -19,15 +19,17 @@ redirect_from:
 
 I am currently a Ph.D. candidate at [**USSLab**](https://usslab.org), Zhejiang University, co-supervised by [Prof. Wenyuan Xu](https://sites.google.com/view/xuwenyuan/main) and [Prof. Xiaoyu Ji](https://sites.google.com/site/xiaoyuijh/home). I received my B.S. degree in Automation at College of EE, Zhejiang University in 2022.
 
-My research interests include the following aspects: 
-+ **Speech security and privacy**, particularly focusing on speech anonymization and voice deepfake detection;
-+ **Sensor security and privacy**, which focuses on physical signal attacks and defense against sensors and sensor-based privacy protecion.
+My research interests include: (1) Speech security and privacy, particularly focusing on speech anonymization and voice deepfake detection;
+(2) Sensor security and privacy, which focuses on physical signal attacks and defense against sensors in cyber-physical systems (CPS) and sensor-based privacy protecion.
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
   against Sensor Attacks" got accepted by **ACM CCS 2025** ! 
 - *2025.08*: &nbsp;🎉🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
-- *2024.06*: &nbsp;
+- *2024.06*: &nbsp; 🎉🎉 Our paper "IoT Data Privacy Protection by Birth" got accepted by **Nature Review Electrical Engineering**!
+- *2023.05*: &nbsp; 🎉🎉 Our paper "MicPro: Microphone-based Voice Privacy Protection" got accepted by **ACM CCS 2023**!
+- *2023.03*: &nbsp; 🎉🎉 Our paper "Volttack: Control IoT Devices by Manipulating Power Supply Voltage" got accepted by **IEEE S&P 2023**!
+- *2022.12*: &nbsp; 🎉🎉 Our paper "Private eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing" got accepted by **IEEE S&P 2023**!
 
 # 📝 Publications 
 
