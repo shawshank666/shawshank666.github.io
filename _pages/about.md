@@ -19,9 +19,12 @@ redirect_from:
 
 I am currently a Ph.D. candidate at [**USSLab**](https://usslab.org), Zhejiang University, co-supervised by [Prof. Wenyuan Xu](https://sites.google.com/view/xuwenyuan/main) and [Prof. Xiaoyu Ji](https://sites.google.com/site/xiaoyuijh/home). I received my B.S. degree in Automation at College of EE, Zhejiang University in 2022.
 
+My research interest includes the following aspects: 
++ **Speech security and privacy**, particularly focusing on speech anonymization and voice deepfake detection;
++ **Sensor security and privacy**, which focuses on physical signal attacks and defense against sensors and sensor-based privacy protecion.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 SoK 2.0 is accepted by NDSS 2026! 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
