@@ -24,8 +24,10 @@ My research interest includes the following aspects:
 + **Sensor security and privacy**, which focuses on physical signal attacks and defense against sensors and sensor-based privacy protecion.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 SoK 2.0 is accepted by NDSS 2026! 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
+  against Sensor Attacks" got accepted by **ACM CCS 2025** ! 
+- *2025.08*: &nbsp;🎉🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
+- 
 
 # 📝 Publications 
 
