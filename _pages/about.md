@@ -23,13 +23,13 @@ My research interests include: (1) Speech security and privacy, particularly foc
 (2) Sensor security and privacy, which focuses on physical signal attacks and defense against sensors in cyber-physical systems (CPS) and sensor-based privacy protecion.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
+- *2025.08*: &nbsp;🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
   against Sensor Attacks" got accepted by **ACM CCS 2025** ! 
-- *2025.08*: &nbsp;🎉🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
-- *2024.06*: &nbsp; 🎉🎉 Our paper "IoT Data Privacy Protection by Birth" got accepted by **Nature Review Electrical Engineering**!
-- *2023.05*: &nbsp; 🎉🎉 Our paper "MicPro: Microphone-based Voice Privacy Protection" got accepted by **ACM CCS 2023**!
-- *2023.03*: &nbsp; 🎉🎉 Our paper "Volttack: Control IoT Devices by Manipulating Power Supply Voltage" got accepted by **IEEE S&P 2023**!
-- *2022.12*: &nbsp; 🎉🎉 Our paper "Private eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing" got accepted by **IEEE S&P 2023**!
+- *2025.08*: &nbsp;🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
+- *2024.06*: &nbsp; 🎉 Our paper "IoT Data Privacy Protection by Birth" got accepted by **Nature Review Electrical Engineering**!
+- *2023.05*: &nbsp; 🎉 Our paper "MicPro: Microphone-based Voice Privacy Protection" got accepted by **ACM CCS 2023**!
+- *2023.03*: &nbsp; 🎉 Our paper "Volttack: Control IoT Devices by Manipulating Power Supply Voltage" got accepted by **IEEE S&P 2023**!
+- *2022.12*: &nbsp; 🎉 Our paper "Private eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing" got accepted by **IEEE S&P 2023**!
 
 # 📝 Publications 
 
