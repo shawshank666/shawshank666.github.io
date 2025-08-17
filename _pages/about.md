@@ -35,6 +35,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='images/SOK2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+</div></div>
 
 [SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities](https://dx.doi.org/10.14722/ndss.2026.230450)
 
@@ -46,6 +47,7 @@ We provides a systematic analysis on sensor out-of-band vulnerabilities. We iden
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2023</div><img src='images/MicPro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+</div></div>
 
 [MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616)
 
