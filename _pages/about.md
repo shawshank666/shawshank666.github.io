@@ -57,10 +57,10 @@ We proposes the first privacy-enhanced microphone module (i.e., MicPro) that can
 </div>
 
 + [Exploring the Robustness of Vision-Language-Action Models 
-  against Sensor Attacks](). Xuancun Lu, Jiaxiang Chen, Shilin Xiao, Zizhi Jin, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. To appear in **CCS-LAMPS 2025**.
+  against Sensor Attacks](). Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. To appear in **CCS-LAMPS 2025**.
 + [IoT Data Privacy Protection by Birth](https://doi.org/10.1038/s44287-024-00073-2). Xiaoyu Ji, Wenjun Zhu, **Shilin Xiao**, Wenyuan Xu. **Nature Review Electrical Engineering 2024**.
 + [Volttack: Control IoT Devices by Manipulating Power Supply Voltage](https://10.1109/sp46215.2023.10179340). Kai Wang, **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu. **S&P 2023 (CCF-A, Big4)**
-+ [Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing](https://doi.org/10.1109/sp46215.2023.10179423). Yan Long, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**
++ [Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing](https://doi.org/10.1109/sp46215.2023.10179423). Yan Long, Chen Yan, **Shilin Xiao**, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**
 
 # 🎖 Honors and Awards
 
