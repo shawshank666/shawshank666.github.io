@@ -71,6 +71,6 @@ We proposes the first privacy-enhanced microphone module (i.e., MicPro) that can
 # 💬 Invited Talks
 
 # 🗺️ Visitor Map
-<div style="width:40%; max-width:600px;">
+<div style="width:25%; max-width:600px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GLPDlLbX1cPZm8KLm_XgXodCr9GtyJ7mqVJyXZjRBDY"></script>
 </div>
