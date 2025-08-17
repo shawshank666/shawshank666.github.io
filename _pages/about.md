@@ -41,8 +41,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 **Shilin Xiao**, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.
 To be appear at **NDSS 2026** (CCF_A, Big4).
 
-We provides a comprehensive abstraction for sensor attack surfaces based on underlying physical principles. We adopt a bottom-up system
-atization methodology that analyzes OOB vulnerabilities across three levels. At the component level, we identify the physical principles and limitations that contribute to OOB vulnerabilities. At the sensor level, we categorize known attacks and evaluate their practicality. At the system level, we analyze how CPS features such as sensor fusion, closed-loop control, and intelligent perception impact the exposure and mitigation of OOB threats. Our findings offer a foundational understanding of sensor hardware security and provide guidance and future directions for sensor designers, security researchers, and system developers aiming to build more secure sensors and CPS.
+We provides a systematic analysis on sensor out-of-band vulnerabilities. We identify the physical principles and limitations that contribute to OOB vulnerabilities, categorize known attacks and evaluate their practicality, and analyze how CPS features such as sensor fusion, closed-loop control, and intelligent perception impact the exposure and mitigation of OOB threats. Our findings offer a foundational understanding of sensor hardware security and provide guidance and future directions for sensor designers, security researchers, and system developers aiming to build more secure sensors and CPS.
 </div>
 </div>
 
@@ -53,6 +52,9 @@ atization methodology that analyzes OOB vulnerabilities across three levels. At 
 [MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616)
 
 **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu. In proceedings of the ACM Conference on Computer and Communications Security, CCS 2023 (CCF-A, Big4)
+
+We proposes the first privacy-enhanced microphone module (i.e., MicPro) that can produce anonymous audio recordings with bio
+metric information suppressed while preserving speech quality for human perception or linguistic content for speech recognition. MicPro transforms formants, which are distinct for each person due to the unique physiological structure of the vocal organs.
 
 
 # 🎖 Honors and Awards
