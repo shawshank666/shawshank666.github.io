@@ -33,19 +33,27 @@ My research interests include: (1) Speech security and privacy, particularly foc
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SOK2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities](https://dx.doi.org/10.14722/ndss.2026.230450)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shilin Xiao**, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.
+To be appear at **NDSS 2026** (CCF_A, Big4).
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+We provides a comprehensive abstraction for sensor attack surfaces based on underlying physical principles. We adopt a bottom-up system
+atization methodology that analyzes OOB vulnerabilities across three levels. At the component level, we identify the physical principles and limitations that contribute to OOB vulnerabilities. At the sensor level, we categorize known attacks and evaluate their practicality. At the system level, we analyze how CPS features such as sensor fusion, closed-loop control, and intelligent perception impact the exposure and mitigation of OOB threats. Our findings offer a foundational understanding of sensor hardware security and provide guidance and future directions for sensor designers, security researchers, and system developers aiming to build more secure sensors and CPS.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2023</div><img src='images/MicPro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616)
+
+**Shilin Xiao**, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu. In proceedings of the ACM Conference on Computer and Communications Security, CCS 2023 (CCF-A, Big4)
+
 
 # 🎖 Honors and Awards
 
@@ -56,4 +64,4 @@ My research interests include: (1) Speech security and privacy, particularly foc
 # 💬 Invited Talks
 
 # 🗺️ Visitor Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GLPDlLbX1cPZm8KLm_XgXodCr9GtyJ7mqVJyXZjRBDY&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GLPDlLbX1cPZm8KLm_XgXodCr9GtyJ7mqVJyXZjRBDY&cl=ffffff&w=a" width="50%"></script>
