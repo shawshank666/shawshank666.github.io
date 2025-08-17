@@ -72,8 +72,5 @@ We proposes the first privacy-enhanced microphone module (i.e., MicPro) that can
 
 # 🗺️ Visitor Map
 <div style="width:40%; max-width:600px;">
-  <script type="text/javascript" 
-          id="clustrmaps" 
-          src="//clustrmaps.com/map_v2.js?d=GLPDlLbX1cPZm8KLm_XgXodCr9GtyJ7mqVJyXZjRBDY&cl=ffffff&w=500">
-  </script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GLPDlLbX1cPZm8KLm_XgXodCr9GtyJ7mqVJyXZjRBDY"></script>
 </div>
