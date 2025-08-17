@@ -35,7 +35,6 @@ My research interests include: (1) Speech security and privacy, particularly foc
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='images/SOK2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-</div></div>
 
 [SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities](https://dx.doi.org/10.14722/ndss.2026.230450)
 
@@ -43,18 +42,19 @@ My research interests include: (1) Speech security and privacy, particularly foc
 To be appear at **NDSS 2026** (CCF_A, Big4).
 
 We provides a systematic analysis on sensor out-of-band vulnerabilities. We identify the physical principles and limitations that contribute to OOB vulnerabilities, categorize known attacks and evaluate their practicality, and analyze how CPS features such as sensor fusion, closed-loop control, and intelligent perception impact the exposure and mitigation of OOB threats. Our findings offer a foundational understanding of sensor hardware security and provide guidance and future directions for sensor designers, security researchers, and system developers aiming to build more secure sensors and CPS.
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2023</div><img src='images/MicPro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-</div></div>
 
 [MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616)
 
 **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu. In proceedings of the ACM Conference on Computer and Communications Security, CCS 2023 (CCF-A, Big4)
 
 We proposes the first privacy-enhanced microphone module (i.e., MicPro) that can produce anonymous audio recordings with biometric information suppressed while preserving speech quality for human perception or linguistic content for speech recognition. MicPro transforms formants, which are distinct for each person due to the unique physiological structure of the vocal organs, and formant transformations are done by modifying the linear spectrum frequencies (LSFs) provided by a popular codec (i.e., CELP) in low-latency communications.
-
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
