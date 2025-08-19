@@ -41,7 +41,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 **Shilin Xiao**, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.
 To appear in **NDSS 2026 (CCF-A, Big4)**.
 
-We provides a systematic analysis on sensor out-of-band vulnerabilities. We identify the physical principles and limitations that contribute to OOB vulnerabilities, categorize known attacks and evaluate their practicality, and analyze how CPS features such as sensor fusion, closed-loop control, and intelligent perception impact the exposure and mitigation of OOB threats. Our findings offer a foundational understanding of sensor hardware security and provide guidance and future directions for sensor designers, security researchers, and system developers aiming to build more secure sensors and CPS.
+We provide a systematic analysis on sensor out-of-band vulnerabilities. We identify the physical principles and limitations that contribute to OOB vulnerabilities, categorize known attacks and evaluate their practicality, and analyze how CPS features such as sensor fusion, closed-loop control, and intelligent perception impact the exposure and mitigation of OOB threats. Our findings offer a foundational understanding of sensor hardware security and provide guidance and future directions for sensor designers, security researchers, and system developers aiming to build more secure sensors and CPS.
 </div>
 </div>
 
@@ -52,15 +52,25 @@ We provides a systematic analysis on sensor out-of-band vulnerabilities. We iden
 
 **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu. **CCS 2023 (CCF-A, Big4)**
 
-We proposes the first privacy-enhanced microphone module (i.e., MicPro) that can produce anonymous audio recordings with biometric information suppressed while preserving speech quality for human perception or linguistic content for speech recognition. MicPro transforms formants, which are distinct for each person due to the unique physiological structure of the vocal organs, and formant transformations are done by modifying the linear spectrum frequencies (LSFs) provided by a popular codec (i.e., CELP) in low-latency communications.
+We propose the first privacy-enhanced microphone module (i.e., MicPro) that can produce anonymous audio recordings with biometric information suppressed while preserving speech quality for human perception or linguistic content for speech recognition. MicPro transforms formants, which are distinct for each person due to the unique physiological structure of the vocal organs, and formant transformations are done by modifying the linear spectrum frequencies (LSFs) provided by a popular codec (i.e., CELP) in low-latency communications.
 </div>
 </div>
 
-+ [Exploring the Robustness of Vision-Language-Action Models 
-  against Sensor Attacks](). Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. To appear in **CCS-LAMPS 2025**.
-+ [IoT Data Privacy Protection by Birth](https://doi.org/10.1038/s44287-024-00073-2). Xiaoyu Ji, Wenjun Zhu, **Shilin Xiao**, Wenyuan Xu. **Nature Review Electrical Engineering 2024**.
-+ [Volttack: Control IoT Devices by Manipulating Power Supply Voltage](https://10.1109/sp46215.2023.10179340). Kai Wang, **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu. **S&P 2023 (CCF-A, Big4)**
-+ [Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing](https://doi.org/10.1109/sp46215.2023.10179423). Yan Long, Chen Yan, **Shilin Xiao**, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**
++ [Exploring the Robustness of Vision-Language-Action Models against Sensor Attacks]().
+
+  Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. To appear in **CCS-LAMPS 2025**.
+  
++ [IoT Data Privacy Protection by Birth](https://doi.org/10.1038/s44287-024-00073-2).
+
+  Xiaoyu Ji, Wenjun Zhu, **Shilin Xiao**, Wenyuan Xu. **Nature Review Electrical Engineering 2024**.
+
++ [Volttack: Control IoT Devices by Manipulating Power Supply Voltage](https://10.1109/sp46215.2023.10179340).
+  
+  Kai Wang, **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu. **S&P 2023 (CCF-A, Big4)**
+  
++ [Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing](https://doi.org/10.1109/sp46215.2023.10179423).
+  
+  Yan Long, Chen Yan, **Shilin Xiao**, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**
 
 # 🎖 Honors and Awards
 
