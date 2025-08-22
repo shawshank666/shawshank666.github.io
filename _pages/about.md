@@ -76,8 +76,9 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
 # 🎖 Honors and Award
 
 # 📖 Educations
-- *2022.09 - Present*, Ph.D., USSLAB, Zhejiang University, Hangzhou. 
-- *2018.09 - 2022.06*, Undergraduate, College of Electrical Engineering, Zhejiang University, Hangzhou. 
+- *2022.09 - Present*, Ph.D., USSLAB, Zhejiang University, Hangzhou, China. 
+- *2018.09 - 2022.06*, Undergraduate, College of Electrical Engineering, Zhejiang University, Hangzhou, China.
+- *2015.09 - 2018.06*, Northeast Yucai School, Shenyang, China. 
 
 # 💬 Invited Talks
 + *2023.12*, ACM CCS 2023 at Copenhagen, Denmark.
