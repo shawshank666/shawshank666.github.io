@@ -27,6 +27,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 - *2025.08*: &nbsp; 🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
   against Sensor Attacks" got accepted by **CCS-LAMPS 2025** ! 
 - *2024.06*: &nbsp; 🎉 Our paper "IoT Data Privacy Protection by Birth" got accepted by **Nature Review Electrical Engineering**!
+- *2023.12*: &nbsp; 🔥 I attended the ACM CCS 2023 and present our work "MicPro" in person.
 - *2023.05*: &nbsp; 🎉 Our paper "MicPro: Microphone-based Voice Privacy Protection" got accepted by **CCS 2023**!
 - *2023.03*: &nbsp; 🎉 Our paper "Volttack: Control IoT Devices by Manipulating Power Supply Voltage" got accepted by **S&P 2023**!
 - *2022.12*: &nbsp; 🎉 Our paper "Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing" got accepted by **S&P 2023**!
@@ -48,7 +49,7 @@ We provide a systematic analysis on sensor out-of-band vulnerabilities. We ident
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2023</div><img src='images/MicPro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616)
+[MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616) [[Paper](docs/pubs/MicPro.pdf)] [[Slide](docs/pubs/MicPro-v5-1124.pdf)] [[Code](https://github.com/USSLab/MicPro)] 
 
 **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu. **CCS 2023 (CCF-A, Big4)**
 
