@@ -23,8 +23,8 @@ My research interests include: (1) Speech security and privacy, particularly foc
 (2) Sensor security and privacy, which focuses on physical signal attacks and defense against sensors in cyber-physical systems (CPS) and sensor-based privacy protecion.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
-- *2025.08*: &nbsp;🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
+- *2025.08*: &nbsp; 🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
+- *2025.08*: &nbsp; 🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
   against Sensor Attacks" got accepted by **CCS-LAMPS 2025** ! 
 - *2024.06*: &nbsp; 🎉 Our paper "IoT Data Privacy Protection by Birth" got accepted by **Nature Review Electrical Engineering**!
 - *2023.05*: &nbsp; 🎉 Our paper "MicPro: Microphone-based Voice Privacy Protection" got accepted by **CCS 2023**!
@@ -72,13 +72,14 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
   
   Yan Long, Chen Yan, **Shilin Xiao**, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Award
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D., USSLAB, Zhejiang University, Hangzhou. 
 - *2018.09 - 2022.06*, Undergraduate, College of Electrical Engineering, Zhejiang University, Hangzhou. 
 
 # 💬 Invited Talks
++ *2023.12*, ACM CCS 2023 at Copenhagen, Denmark.
 
 # 🗺️ Visitor Map
 <div style="width:25%; max-width:600px;">
