@@ -51,7 +51,7 @@ We provide a systematic analysis on sensor out-of-band vulnerabilities. We ident
 
 [MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616) [[Code](https://github.com/USSLab/MicPro)] 
 
-**Shilin Xiao**, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu. **CCS 2023 (CCF-A, Big4)**
+**Shilin Xiao**, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu. **CCS 2023 (CCF-A, Big4)**.
 
 We propose the first privacy-enhanced microphone module (i.e., MicPro) that can produce anonymous audio recordings with biometric information suppressed while preserving speech quality for human perception or linguistic content for speech recognition. MicPro transforms formants, which are distinct for each person due to the unique physiological structure of the vocal organs, and formant transformations are done by modifying the linear spectrum frequencies (LSFs) provided by a popular codec (i.e., CELP) in low-latency communications.
 </div>
@@ -67,11 +67,11 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
 
 + [Volttack: Control IoT Devices by Manipulating Power Supply Voltage](https://10.1109/sp46215.2023.10179340).
   
-  Kai Wang, **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu. **S&P 2023 (CCF-A, Big4)**
+  Kai Wang, **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Chaohao Li, Wenyuan Xu. **S&P 2023 (CCF-A, Big4)**.
   
 + [Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing](https://doi.org/10.1109/sp46215.2023.10179423).
   
-  Yan Long, Chen Yan, **Shilin Xiao**, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**
+  Yan Long, Chen Yan, **Shilin Xiao**, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**.
 
 # 🎖 Honors and Award
 
