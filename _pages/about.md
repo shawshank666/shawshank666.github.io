@@ -49,7 +49,7 @@ We provide a systematic analysis on sensor out-of-band vulnerabilities. We ident
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2023</div><img src='images/MicPro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616) <a href="/docs/pubs/MicPro.pdf" target="_blank">[Paper]</a> [[Paper](/docs/pubs/MicPro.pdf)] [[Slides](/docs/pubs/MicPro-v5-1124.pdf)] [[Code](https://github.com/USSLab/MicPro)] 
+[MicPro: Microphone-based Voice Pirvacy Protecion](https://doi.org/10.1145/3576915.3616616) [[Paper](/shawshank666/docs/pubs/MicPro.pdf)] [[Slides](/shawshank666/docs/pubs/MicPro-v5-1124.pdf)] [[Code](https://github.com/USSLab/MicPro)] 
 
 **Shilin Xiao**, Xiaoyu Ji, Chen Yan, Zhicong Zheng, Wenyuan Xu. **CCS 2023 (CCF-A, Big4)**
 
