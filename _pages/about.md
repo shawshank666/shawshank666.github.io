@@ -57,10 +57,13 @@ We provide a systematic analysis on sensor out-of-band vulnerabilities. We ident
 We propose the first privacy-enhanced microphone module (i.e., MicPro) that can produce anonymous audio recordings with biometric information suppressed while preserving speech quality for human perception or linguistic content for speech recognition. MicPro transforms formants, which are distinct for each person due to the unique physiological structure of the vocal organs, and formant transformations are done by modifying the linear spectrum frequencies (LSFs) provided by a popular codec (i.e., CELP) in low-latency communications.
 </div>
 </div>
++ [Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks]().
+
+  Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Zhangrui Chen, Hanwen Yu, Bohan Qian, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. **AAAI 2026 (CCF-A)**
 
 + [Exploring the Robustness of Vision-Language-Action Models against Sensor Attacks]().
 
-  Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. To appear in **CCS-LAMPS 2025**.
+  Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. **CCS-LAMPS 2025**.
   
 + [IoT Data Privacy Protection by Birth](https://doi.org/10.1038/s44287-024-00073-2).
 
