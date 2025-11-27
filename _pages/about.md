@@ -85,6 +85,17 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
   Yan Long, Chen Yan, **Shilin Xiao**, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**.
 
 # 🎖 Honors and Award
+- Honors in Academic Innovation Capability for Graduate, awarded on 2024-2025
+- Award of Honor for Graduate, awarded on 2023-2024
+- Award of Honor for Graduate, awarded on 2022-2023
+- Sifang Automation Scholarship, awarded on 2022-2023
+- Edison Honors Class@ZJU, Outstanding Graduate Award, 2022
+- Second-Class Scholarship of Zhejiang University, awarded on 2020-2021
+- Tianheyun Energy Scholarship, awarded on 2020-2021
+- Third-Class Scholarship of Zhejiang University, awarded on 2019-2020
+- Yishite Scholarship, awarded on 2019-2020
+- Zhejiang Provincial Government Scholarship, awarded on 2018-2019
+- Third-Class Scholarship of Zhejiang University, awarded on 2018-2019
 
 # 📖 Educations
 - *2022.09 - Present*, Ph.D., USSLAB, Zhejiang University, Hangzhou, China. 
