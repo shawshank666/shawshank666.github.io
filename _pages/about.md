@@ -23,6 +23,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 (2) Sensor security and privacy, which focuses on physical signal attacks and defense against sensors in cyber-physical systems (CPS) and sensor-based privacy protecion.
 
 # 🔥 News
+- *2025.11*: &nbsp; 🎉 Our paper "PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing" got accepted by **NDSS 2026**!
 - *2025.11*: &nbsp; 🎉 Our paper "Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks" got accepted by **AAAI 2026**!
 - *2025.08*: &nbsp; 🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
 - *2025.08*: &nbsp; 🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
@@ -57,7 +58,12 @@ We provide a systematic analysis on sensor out-of-band vulnerabilities. We ident
 We propose the first privacy-enhanced microphone module (i.e., MicPro) that can produce anonymous audio recordings with biometric information suppressed while preserving speech quality for human perception or linguistic content for speech recognition. MicPro transforms formants, which are distinct for each person due to the unique physiological structure of the vocal organs, and formant transformations are done by modifying the linear spectrum frequencies (LSFs) provided by a popular codec (i.e., CELP) in low-latency communications.
 </div>
 </div>
-+ [Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks]().
++ [PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing]().
+
+Zhicong Zheng*, Jinghui Wu*, **Shilin Xiao\***, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu. **NDSS 2026 (CCF-A, Big4)**
+(\*: Co-first authors)
+
++ [Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks](https://arxiv.org/abs/2511.10008).
 
   Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Zhangrui Chen, Hanwen Yu, Bohan Qian, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. **AAAI 2026 (CCF-A)**
 
