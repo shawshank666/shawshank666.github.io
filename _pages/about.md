@@ -61,7 +61,7 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
 
 + [PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing]().
 
-  Zhicong Zheng*, Jinghui Wu*, **Shilin Xiao\***, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu. **NDSS 2026 (CCF-A, Big4)**
+  Zhicong Zheng\*, Jinghui Wu\*, **Shilin Xiao\***, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu. **NDSS 2026 (CCF-A, Big4)**
   (\*: Co-first authors)
 
 + [Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks](https://arxiv.org/abs/2511.10008).
