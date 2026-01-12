@@ -85,7 +85,7 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
   Yan Long, Chen Yan, **Shilin Xiao**, Shivan Prasad, Wenyuan Xu, Kevin Fu. **S&P 2023 (CCF-A, Big4)**.
 
 # 🎖 Honors and Award
-- Honors in Academic Innovation Capability for Graduate, awarded on 2024-2025
+- Honor for Graduates--Excellence in Academic Innovation, awarded on 2024-2025
 - Award of Honor for Graduate, awarded on 2023-2024
 - Award of Honor for Graduate, awarded on 2022-2023
 - Sifang Automation Scholarship, awarded on 2022-2023
