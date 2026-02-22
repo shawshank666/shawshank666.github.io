@@ -61,7 +61,8 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
 </div>
 
 + [VoltSiren: Exploiting Power Supply  Vulerabilities to Control IoT Devices]().
-  Kai Wang, **Shilin Xiao**, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu.
+
+  Kai Wang, **Shilin Xiao**, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu. **IoTJ 2026**
 
 + [PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing](https://www.ndss-symposium.org/wp-content/uploads/2026-f29-paper.pdf).
 
