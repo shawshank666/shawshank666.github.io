@@ -40,7 +40,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='images/SOK2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities](https://doi.org/10.48550/arXiv.2508.16133)
+[SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities](https://www.ndss-symposium.org/wp-content/uploads/2026-s450-paper.pdf)
 
 **Shilin Xiao**, Wenjun Zhu, Yan Jiang, Kai Wang, Peiwang Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu.
 To appear in **NDSS 2026 (CCF-A, Big4)**.
@@ -60,7 +60,10 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
 </div>
 </div>
 
-+ [PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing]().
++ [VoltSiren: Exploiting Power Supply  Vulerabilities to Control IoT Devices]().
+  Kai Wang, **Shilin Xiao**, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu.
+
++ [PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing](https://www.ndss-symposium.org/wp-content/uploads/2026-f29-paper.pdf).
 
   Zhicong Zheng\*, Jinghui Wu\*, **Shilin Xiao\***, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu. **NDSS 2026 (CCF-A, Big4)**
   (\*: Co-first authors)
