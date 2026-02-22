@@ -23,6 +23,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 (2) Sensor security and privacy, which focuses on physical signal attacks and defense against sensors in cyber-physical systems (CPS) and sensor-based privacy protecion.
 
 # 🔥 News
+- *2026.02*: &nbsp; 🎉 Our paper "VoltSiren: Exploiting Power Supply  Vulerabilities to Control IoT Devices" got accepted by **Internet of Things Journal (IoTJ)**!
 - *2025.11*: &nbsp; 🎉 Our paper "PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing" got accepted by **NDSS 2026**!
 - *2025.11*: &nbsp; 🎉 Our paper "Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks" got accepted by **AAAI 2026**!
 - *2025.08*: &nbsp; 🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
