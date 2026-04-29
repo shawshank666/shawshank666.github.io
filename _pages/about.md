@@ -74,11 +74,11 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
   Zhicong Zheng\*, Jinghui Wu\*, **Shilin Xiao\***, Yanze Ren, Chen Yan, Xiaoyu Ji, Wenyuan Xu. **NDSS 2026 (CCF-A, Big4)**
   (\*: Co-first authors)
 
-+ [Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks](https://arxiv.org/abs/2511.10008).
++ [Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks](https://doi.org/10.1609/aaai.v40i42.40881).
 
   Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Zhangrui Chen, Hanwen Yu, Bohan Qian, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. **AAAI 2026 (CCF-A)**
 
-+ [Exploring the Robustness of Vision-Language-Action Models against Sensor Attacks]().
++ [Exploring the Robustness of Vision-Language-Action Models against Sensor Attacks](https://dl.acm.org/doi/10.1145/3733800.3763262).
 
   Xuancun Lu, Jiaxiang Chen, **Shilin Xiao**, Zizhi Jin, Ruochen Zhou, Xiaoyu Ji, Wenyuan Xu. **CCS-LAMPS 2025**.
   
