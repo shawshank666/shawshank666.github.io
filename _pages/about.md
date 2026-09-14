@@ -23,6 +23,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 (2) Sensor security and privacy, which focuses on physical signal attacks and defense against sensors in cyber-physical systems (CPS) and sensor-based privacy protecion.
 
 # 🔥 News
+- *2026.09*: &nbsp; 🎉 Our paper "GhostWhisper: Remote Acoustic Eavesdropping on Earphones via RF Backscatter" got accepted by **IEEE S&P 2027**!
 - *2026.04*: &nbsp; 🎉 Our paper "Cybersecurity Vulnerabilities in IoT Devices" got accepted by **Nature Review Electrical Engineering**!
 - *2026.02*: &nbsp; 🎉 Our paper "VoltSiren: Exploiting Power Supply  Vulnerabilities to Control IoT Devices" got accepted by **Internet of Things Journal (IoTJ)**!
 - *2025.11*: &nbsp; 🎉 Our paper "PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing" got accepted by **NDSS 2026**!
@@ -61,11 +62,15 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
 </div>
 </div>
 
-+ [Cybersecurity Vulnerabilities in IoT Devices]().
++ [GhostWhisper: Remote Acoustic Eavesdropping on Earphones via RF Backscatter]
+
+  Yubo Qu, Ruochen Zhou, Tao Pan, Kun Wang, Haozhe Weng, Shilin Xiao, Chen Yan, Shuai Wang, Xiaoyu Ji, Wenyuan Xu. **S&P 2027**
+
++ [Cybersecurity Vulnerabilities in IoT Devices](https://www.nature.com/articles/s44287-026-00296-5).
 
   Chen Yan, Xiaoyu Ji, Qinhong Jiang, Kai Wang, Xintong Wang, Wenjun Zhu, **Shilin Xiao**, Xinfeng Li, Wenyuan Xu. **Nature Review Electrical Engineering 2026**.
 
-+ [VoltSiren: Exploiting Power Supply  Vulnerabilities to Control IoT Devices]().
++ [VoltSiren: Exploiting Power Supply  Vulnerabilities to Control IoT Devices](https://ieeexplore.ieee.org/document/11411801).
 
   Kai Wang, **Shilin Xiao**, Pengzhan Chen, Xiaoyu Ji, Chen Yan, Ruochen Zhou, Kaixiang Zhang, Wenyuan Xu. **IoTJ 2026**
 
