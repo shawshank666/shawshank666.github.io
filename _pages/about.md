@@ -62,9 +62,9 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
 </div>
 </div>
 
-+ [GhostWhisper: Remote Acoustic Eavesdropping on Earphones via RF Backscatter]
++ [GhostWhisper: Remote Acoustic Eavesdropping on Earphones via RF Backscatter]().
 
-  Yubo Qu, Ruochen Zhou, Tao Pan, Kun Wang, Haozhe Weng, Shilin Xiao, Chen Yan, Shuai Wang, Xiaoyu Ji, Wenyuan Xu. **S&P 2027**
+  Yubo Qu, Ruochen Zhou, Tao Pan, Kun Wang, Haozhe Weng, **Shilin Xiao**, Chen Yan, Shuai Wang, Xiaoyu Ji, Wenyuan Xu. **S&P 2027**
 
 + [Cybersecurity Vulnerabilities in IoT Devices](https://www.nature.com/articles/s44287-026-00296-5).
 
