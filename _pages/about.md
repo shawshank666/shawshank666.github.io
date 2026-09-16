@@ -119,8 +119,3 @@ We propose the first privacy-enhanced microphone module (i.e., MicPro) that can 
 
 # 💬 Invited Talks
 + *2023.12*, ACM CCS 2023 at Copenhagen, Denmark.
-
-# 🗺️ Visitor Map
-<div style="width:25%; max-width:600px;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GLPDlLbX1cPZm8KLm_XgXodCr9GtyJ7mqVJyXZjRBDY"></script>
-</div>
