@@ -23,6 +23,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 (2) Sensor security and privacy, which focuses on physical signal attacks and defense against sensors in cyber-physical systems (CPS) and sensor-based privacy protecion.
 
 # 🔥 News
+- *2026.09*: &nbsp; 🎉 Our paper "SenTrojan: Revealing Analog Hardware Trojan Attacks on Sensors" got accepted by **NDSS 2027**!
 - *2026.09*: &nbsp; 🎉 Our paper "GhostWhisper: Remote Acoustic Eavesdropping on Earphones via RF Backscatter" got accepted by **IEEE S&P 2027**!
 - *2026.04*: &nbsp; 🎉 Our paper "Cybersecurity Vulnerabilities in IoT Devices" got accepted by **Nature Review Electrical Engineering**!
 - *2026.02*: &nbsp; 🎉 Our paper "VoltSiren: Exploiting Power Supply  Vulnerabilities to Control IoT Devices" got accepted by **Internet of Things Journal (IoTJ)**!
@@ -61,6 +62,9 @@ We provide a systematic analysis on sensor out-of-band vulnerabilities. We ident
 We propose the first privacy-enhanced microphone module (i.e., MicPro) that can produce anonymous audio recordings with biometric information suppressed while preserving speech quality for human perception or linguistic content for speech recognition. MicPro transforms formants, which are distinct for each person due to the unique physiological structure of the vocal organs, and formant transformations are done by modifying the linear spectrum frequencies (LSFs) provided by a popular codec (i.e., CELP) in low-latency communications.
 </div>
 </div>
++[SenTrojan: Revealing Analog Hardware Trojan Attacks on Sensors]().
+
+  Kun Wang, Ruochen Zhou, Wenjun Zhu, **Shilin Xiao**, Kai Wang, Chen Yan, Xiaoyu Ji, Wenyuan Xu. NDSS2027 **(CCF-A, Big4)**
 
 + [GhostWhisper: Remote Acoustic Eavesdropping on Earphones via RF Backscatter]().
 
