@@ -25,7 +25,7 @@ My research interests include: (1) Speech security and privacy, particularly foc
 # 🔥 News
 - *2026.09*: &nbsp; 🎉 **SenTrojan** has been accepted by **NDSS 2027**!
 - *2026.09*: &nbsp; 🎉 **GhostWhisper** has been accepted by **IEEE S&P 2027**!
-- *2026.04*: &nbsp; 🎉 One paper accepted by **Nature Review Electrical Engineering**!
+- *2026.04*: &nbsp; 🎉 One paper has been accepted by **Nature Review Electrical Engineering**!
 - *2026.02*: &nbsp; 🎉 **VoltSiren** has been accepted by **Internet of Things Journal (IoTJ)**!
 - *2025.11*: &nbsp; 🎉 **PhyFuzz** has been accepted by **NDSS 2026**!
 - *2025.11*: &nbsp; 🎉 **Phantom Menace** has been accepted by **AAAI 2026**!
