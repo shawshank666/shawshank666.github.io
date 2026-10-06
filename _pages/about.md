@@ -23,20 +23,19 @@ My research interests include: (1) Speech security and privacy, particularly foc
 (2) Sensor security and privacy, which focuses on physical signal attacks and defense against sensors in cyber-physical systems (CPS) and sensor-based privacy protecion.
 
 # 🔥 News
-- *2026.09*: &nbsp; 🎉 Our paper "SenTrojan: Revealing Analog Hardware Trojan Attacks on Sensors" got accepted by **NDSS 2027**!
-- *2026.09*: &nbsp; 🎉 Our paper "GhostWhisper: Remote Acoustic Eavesdropping on Earphones via RF Backscatter" got accepted by **IEEE S&P 2027**!
-- *2026.04*: &nbsp; 🎉 Our paper "Cybersecurity Vulnerabilities in IoT Devices" got accepted by **Nature Review Electrical Engineering**!
-- *2026.02*: &nbsp; 🎉 Our paper "VoltSiren: Exploiting Power Supply  Vulnerabilities to Control IoT Devices" got accepted by **Internet of Things Journal (IoTJ)**!
-- *2025.11*: &nbsp; 🎉 Our paper "PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing" got accepted by **NDSS 2026**!
-- *2025.11*: &nbsp; 🎉 Our paper "Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks" got accepted by **AAAI 2026**!
-- *2025.08*: &nbsp; 🎉 Our paper "SoK: Understanding the Fundamentals and Implications of Sensor Out-of-band Vulnerabilities" got accepted by **NDSS 2026**!
-- *2025.08*: &nbsp; 🎉 Our paper "Exploring the Robustness of Vision-Language-Action Models 
-  against Sensor Attacks" got accepted by **CCS-LAMPS 2025** ! 
-- *2024.06*: &nbsp; 🎉 Our paper "IoT Data Privacy Protection by Birth" got accepted by **Nature Review Electrical Engineering**!
+- *2026.09*: &nbsp; 🎉 **SenTrojan** has been accepted by **NDSS 2027**!
+- *2026.09*: &nbsp; 🎉 **GhostWhisper** has been accepted by **IEEE S&P 2027**!
+- *2026.04*: &nbsp; 🎉 One paper accepted by **Nature Review Electrical Engineering**!
+- *2026.02*: &nbsp; 🎉 **VoltSiren** has been accepted by **Internet of Things Journal (IoTJ)**!
+- *2025.11*: &nbsp; 🎉 **PhyFuzz** has been accepted by **NDSS 2026**!
+- *2025.11*: &nbsp; 🎉 **Phantom Menace** has been accepted by **AAAI 2026**!
+- *2025.08*: &nbsp; 🎉 Our SoK paper and **PhyFuzz** have been accepted by **NDSS 2026**!
+- *2025.08*: &nbsp; 🎉 One paper has been accepted by **CCS-LAMPS 2025** ! 
+- *2024.06*: &nbsp; 🎉 One paper accepted by **Nature Review Electrical Engineering**!
 - *2023.12*: &nbsp; 🔥 I attended the ACM CCS 2023 and present our work "MicPro" in person.
-- *2023.05*: &nbsp; 🎉 Our paper "MicPro: Microphone-based Voice Privacy Protection" got accepted by **CCS 2023**!
-- *2023.03*: &nbsp; 🎉 Our paper "Volttack: Control IoT Devices by Manipulating Power Supply Voltage" got accepted by **S&P 2023**!
-- *2022.12*: &nbsp; 🎉 Our paper "Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing" got accepted by **S&P 2023**!
+- *2023.05*: &nbsp; 🎉 **MicPro** has been accepted by **CCS 2023**!
+- *2023.03*: &nbsp; 🎉 **Volttack** has been accepted by **S&P 2023**!
+- *2022.12*: &nbsp; 🎉 **Private Eye** has been accepted by **S&P 2023**!
 
 # 📝 Publications 
 
